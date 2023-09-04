@@ -57,6 +57,7 @@ This theme is currently a work in progress. See further below which languages ar
 | Fortran (free form)   |           0 % |
 | Fortran (fixed form)  |           0 % |
 | FreeBasic             |           0 % |
+| GDScript              |         100 % |
 | Haskell               |           0 % |
 | HTML                  |         100 % |
 | ini file              |         100 % |
